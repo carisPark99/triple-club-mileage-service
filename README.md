@@ -65,7 +65,7 @@ placeId: 리뷰가작성된장소의id입니다.
 ### 사전 데이터 등록
 ```
 insert into user_bas (id, name, create_dt, update_dt)
-values (uuid_to_bin('9e1094b5-f31c-4118-82fa-5020da938b7d'), 'TestUser', now(), now())
+values (uuid_to_bin('1e44fa8e-13b4-490f-ba00-c6a834dbe386'), 'caris', now(), now())
 ;
 
 insert into place_bas (id, name, create_dt, update_dt)
