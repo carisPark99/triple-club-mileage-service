@@ -51,7 +51,7 @@ placeId: 리뷰가작성된장소의id입니다.
 - DB : Mysql (Ver 8.0.26 for Linux on x86_64 (MySQL Community Server - GPL))
 
 ### 테이블 설계
-  <img src="../../../Desktop/스크린샷 2022-12-07 오후 8.55.57.png">
+  <img src="src/main/resources/img/table.png">
 
 ### 어플리케이션 실행 방법
 - Mysql docker 설치 및 실행
